@@ -3,13 +3,12 @@ Recipe project from the Odin Project Course
 
 Building a simple recipe website
 
-Although I have some of experience about web development, I want to just do this course to make sure that my foundational knowledge has no more gaps to be filled.
+Just finished CSS Foundations module and revamped the odin recipes with CSS 
 
-Right now, I have learned how to use git and github, learning commands such as clone, add, push, commit, learning how to write messages for new updates to my code, and understanding how the workflow is when it comes to web development, considering using a github is involved.
+decided to design on figma first before redesigning the website to learn the process of creating a website
 
-I am just applying basic HTML elements, and no CSS yet.
+there are some things, related to positioning, that I was unable to do but I am happy with the progress I've made
 
-hoping to be able to build my own productivity app for the future :D
-
+Things I've learned is how block and inline elements work, troubleshooting when things don't go your way, designing in a way that is easy to copy paste.
 
 
