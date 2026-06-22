@@ -14,25 +14,32 @@ div{
 }
 
 .navbar{
+    margin: 10px 0px;
     background-color: gray;
 }
 .hero-section{
     background-color: gray;
     height: 700px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
 }
 
 .main-pic{
+    display: inline-block;
+    width: 600px;
 }
 
 .main-pic .food-pic{
-    width: 600px;
+    width: 500px;
     height: auto;
 
 }
 
 .main-content{
+    display: inline-block;
     background-color: white;
-    width: auto;
+    width: 600px;
     height: auto;
 }
 
