@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+    font-family: 'Courier New', monospace;
+}
+
+div{
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.navbar{
+    background-color: gray;
+}
+.hero-section{
+    background-color: gray;
+    height: 700px;
+}
+
+.main-pic{
+}
+
+.main-pic .food-pic{
+    width: 600px;
+    height: auto;
+
+}
+
+.main-content{
+    background-color: white;
+    width: auto;
+    height: auto;
+}
+
+.main-content .food-name{
+    font-size: 30px;
+}
+
+
+.but{
+    font-family: inherit;
+    padding: 20px;
+}
+
+.catalog{
+    background-color: gray;
+}
+
+.card{
+    background-color: orange;;
+    display: inline-block;
+}
+
+.card .food-pic{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+.food-name{
+
+}
+
+.food-content{
+
+}
